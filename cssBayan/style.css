@@ -12,5 +12,22 @@ body {
 }
 
 p {
-    margin: 0 0 5px;
+    margin: 0 0 0.3rem;
+}
+
+/*Bayan*/
+
+.bayan {
+    max-width: 1rem;
+    margin: 0.04rem auto;
+}
+.header {
+max-width: 1rem;
+margin: 0.04rem auto;
+}
+
+.bayan-item {
+    max-width: 1rem;
+    margin: 0.04rem auto;
+    border: 1px solid #fe0018;
 }
